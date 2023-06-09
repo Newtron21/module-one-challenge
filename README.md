@@ -1,2 +1,1 @@
-# module-one-challenge
-Module 1 challenge for first week of class
+# Code Refactor Starter Code
